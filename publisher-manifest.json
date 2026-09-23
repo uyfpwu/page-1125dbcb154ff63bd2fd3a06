@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d26b185b6786be10221b21d5",
+  "owner": "uyfpwu",
+  "repo": "page-1125dbcb154ff63bd2fd3a06",
+  "title": "星雨幻境",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1125dbcb154ff63bd2fd3a06",
+      "a": "星雨幻境",
+      "b": "2027官方最新地址导航",
+      "entity": "星雨幻境",
+      "brand": "星雨幻境",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8daa3f70bc30c9c64d4c1c833d412ee565ff2759eb08dda259b845616c8e68b9",
+      "content": {
+        "primary_entity": "星雨幻境",
+        "keyword1": "星雨幻境",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选适合的客户端，完成订阅导入即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，即刻开启加速体验。",
+          "AI_CLOSING_TITLE": "开启星雨幻境",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览；旗舰版每月 300GB 流量、支持 5 台设备，具备 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，附带 VIP 专属高带宽节点与企业定制路由。按年付费分别仅需 ¥150、¥350 与 ¥850，可依设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从设备、流量与订阅周期三个方面了解星雨幻境的套餐特点。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可满足 20 台设备同时在线，按需选择。",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付相当于十个月价格，长期使用更划算。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版支持企业定制路由，适应不同场景。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "线路优化",
+          "AI_GUIDE_INTRO": "三步完成星雨幻境的订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "星雨幻境提供海外加速服务，覆盖基础版、旗舰版与团队版三档套餐，按设备数量、流量和线路需求灵活选择，支持多种客户端导入订阅，满足浏览、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "星雨幻境，加速你的海外连接",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量、20 台设备，支持企业定制路由。按年付分别 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看所选套餐支持的在线设备数量与线路特性。",
+          "AI_STEP_TEXT_3": "按照对应客户端的使用文档导入订阅信息，完成连接配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "星雨幻境加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同账号多设备同时在线会占用对应数量，超出时需升级或断开部分设备。",
+          "AI_FAQ_ANSWER_2": "月付价格分别为 ¥15、¥35、¥85；按年付分别为 ¥150、¥350、¥850，相当于全年节省两个月费用，长期使用建议年付。",
+          "AI_FAQ_ANSWER_3": "旗舰版在基础流媒体解锁之上提供全节点原生解锁与 IPLC 专线游戏加速，普通节点池升级为专线优化，适合对延迟敏感的游戏与高清视频场景。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可同步节点。Clash 系列选择配置文件导入，Shadowrocket 与 v2rayN 选择订阅地址，各客户端文档有对应的导入说明。",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、企业定制路由与专属客户经理，适合 20 台设备以内的小型团队统一管理流量与节点策略。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付的价格分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版相比基础版有哪些提升？",
+          "AI_FAQ_QUESTION_4": "如何在不同客户端中导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tanzhourc.cn",
+    "host": "tanzhourc.cn"
+  },
+  "file_hashes": {
+    "index.html": "7e56e6e6e1428c824e92b8fbc9f0de194514dbd7fd19db386cea5dc3f35f0b3f",
+    "sitemap.xml": "c2e83c98b073a60731087e380b4996213bf8748b9f4285290466247f4df59673",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b39e3843d870956af970f8eb5c3d9b9d4fdd1071ecfdba4c3b03de0fde40bbc4",
+    "robots.txt": "fb0b31ce4605b8aa4a8bc05481f1edd80e2ffe7115d6aaad08d5c8743e04b1af",
+    "b7834e5f3beb8b98fca2caaa92e2195d.txt": "31ecb2cb746a95849342c371f717f561bb32c7b357856ecd1f9b684e3dd653a2"
+  },
+  "revision": "ebd88a6e709953e569949ace2adce75c13d55e2811c19520dbe731daeddd78bc"
+}
